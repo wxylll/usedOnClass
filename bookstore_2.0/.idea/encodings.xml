@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/bookstore/book/dao/BookDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/book/domain/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/book/service/BookService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/book/web/servlet/BookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/book/web/servlet/admin/AdminAddBookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/book/web/servlet/admin/AdminBookServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/cart/domain/Cart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/cart/domain/CartItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/cart/web/servlet/CartServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/category/dao/CategoryDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/category/domain/Category.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/category/service/CategoryService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/category/web/servlet/CategoryServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/category/web/servlet/admin/AdminCategoryServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/order/dao/OrderDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/order/domain/Order.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/order/domain/OrderItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/order/service/OrderException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/order/service/OrderService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/order/web/servlet/OrderServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/order/web/servlet/PaymentUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/order/web/servlet/admin/AdminOrderServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/user/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/user/domain/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/user/service/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/user/web/filter/AdminLoginFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/user/web/filter/LoginFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/user/web/servlet/AdminServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/bookstore/user/web/servlet/UserServlet.java" charset="GBK" />
+  </component>
+</project>
